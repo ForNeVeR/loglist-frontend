@@ -1,0 +1,27 @@
+.header {
+    padding: 20px;
+    text-align: center;
+}
+
+.heading {
+    font-size: 25px;
+    font-weight: 300;
+    margin: 0;
+    line-height: 1;
+}
+
+.heading a {
+    color: #bbbbbb;
+    text-decoration: none;
+}
+
+@media (min-width: 1000px) {
+    
+    .heading {
+        font-size: 50px;
+    }
+}
+
+.accent {
+    color: #aaff55;
+}

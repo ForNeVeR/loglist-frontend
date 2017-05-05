@@ -1,0 +1,10 @@
+.container {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px 20px;
+}
+
+.count {
+    font-size: 13px;
+    color: #BBBBBB;
+}
